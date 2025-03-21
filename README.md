@@ -17,6 +17,3 @@
 * It will not accept empty input.
 * it will give you  alert if city name not matched with api  data.
 * Good UI/UX. 
-
-
-### Snapshot
