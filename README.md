@@ -25,10 +25,10 @@
 <img src="Screenshots/home_page.jpg" width="100%">
 
 * When you entered any valid city
- <img src=""Screenshots/demo.jpg" width="100%">
+ <img src="Screenshots/demo.jpg" width="100%">
 
 * When you did'nt entered anything 
- <img src=""Screenshots/empty.jpg" width="100%">
+ <img src="Screenshots/empty.jpg" width="100%">
 
 * When entered city did'nt matched with data
- <img src=""Screenshots/bad_input.jpg" width="100%">
+ <img src="Screenshots/bad_input.jpg" width="100%">
