@@ -7,7 +7,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-image: url("img/bg1.jpg");
-  min-height: 92vh;
+  min-height: 95vh;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -104,12 +104,18 @@ body {
 }
 
 
-@media screen and (max-width: 800px) {
+@media (min-width: 100px) and (max-width: 800px) {
   .app-main {
-    width: 50%;
-    padding: 10px;
+    width: 80vw;
+    padding: 5px;
   }
   body {
     min-height: 94vh;
+    background-size: cover;
+  }
+}
+@media (min-width: 801px) {
+  .app-main {
+    width: 50vw;
   }
 }
